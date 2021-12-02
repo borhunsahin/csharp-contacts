@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orhun\\Documents\\csharps-contacts\\csharps-contacts.csproj": {}
+    "C:\\Users\\Orhun\\Documents\\csharp-contacts\\csharp-contacts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orhun\\Documents\\csharps-contacts\\csharps-contacts.csproj": {
+    "C:\\Users\\Orhun\\Documents\\csharp-contacts\\csharp-contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orhun\\Documents\\csharps-contacts\\csharps-contacts.csproj",
-        "projectName": "csharps-contacts",
-        "projectPath": "C:\\Users\\Orhun\\Documents\\csharps-contacts\\csharps-contacts.csproj",
+        "projectUniqueName": "C:\\Users\\Orhun\\Documents\\csharp-contacts\\csharp-contacts.csproj",
+        "projectName": "csharp-contacts",
+        "projectPath": "C:\\Users\\Orhun\\Documents\\csharp-contacts\\csharp-contacts.csproj",
         "packagesPath": "C:\\Users\\Orhun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orhun\\Documents\\csharps-contacts\\obj\\",
+        "outputPath": "C:\\Users\\Orhun\\Documents\\csharp-contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

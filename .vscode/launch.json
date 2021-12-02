@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/csharps-contacts.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/csharp-contacts.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "externalTerminal",

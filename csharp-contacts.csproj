@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>csharps_contacts</RootNamespace>
+    <RootNamespace>csharp_contacts</RootNamespace>
   </PropertyGroup>
 
 </Project>

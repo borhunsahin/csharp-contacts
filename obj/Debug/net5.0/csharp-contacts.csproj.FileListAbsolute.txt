@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-contacts\bin\Debug\net5.0\csharp-contacts.exe
+C:\Users\Orhun\Documents\csharp-contacts\bin\Debug\net5.0\csharp-contacts.deps.json
+C:\Users\Orhun\Documents\csharp-contacts\bin\Debug\net5.0\csharp-contacts.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-contacts\bin\Debug\net5.0\csharp-contacts.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-contacts\bin\Debug\net5.0\csharp-contacts.dll
+C:\Users\Orhun\Documents\csharp-contacts\bin\Debug\net5.0\ref\csharp-contacts.dll
+C:\Users\Orhun\Documents\csharp-contacts\bin\Debug\net5.0\csharp-contacts.pdb
+C:\Users\Orhun\Documents\csharp-contacts\obj\Debug\net5.0\csharp-contacts.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-contacts\obj\Debug\net5.0\csharp-contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-contacts\obj\Debug\net5.0\csharp-contacts.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-contacts\obj\Debug\net5.0\csharp-contacts.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-contacts\obj\Debug\net5.0\csharp-contacts.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-contacts\obj\Debug\net5.0\csharp-contacts.dll
+C:\Users\Orhun\Documents\csharp-contacts\obj\Debug\net5.0\ref\csharp-contacts.dll
+C:\Users\Orhun\Documents\csharp-contacts\obj\Debug\net5.0\csharp-contacts.pdb
+C:\Users\Orhun\Documents\csharp-contacts\obj\Debug\net5.0\csharp-contacts.genruntimeconfig.cache
