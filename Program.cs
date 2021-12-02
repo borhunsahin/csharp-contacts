@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace csharps_contacts
+namespace csharp_contacts
 {
     class Program
     {
@@ -294,4 +294,4 @@ namespace csharps_contacts
             return check;
         }
     }
-}   
+}
